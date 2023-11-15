@@ -1,0 +1,17 @@
+.para{
+    color:hsl(0,0%,0%);
+    background-color:hsl(0,90%,85%);
+    font-family: Verdana, sans-serif;
+}
+#one{
+    color:hsl(240,100%,60%);
+    font-size:36px;
+}
+.two{
+    font-size: 24px;
+}
+#three{
+    background-color: hsl(120,100%,75%);
+    font-weight: bold;
+    font-size: 24px;
+}
